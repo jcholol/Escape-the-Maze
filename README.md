@@ -1,3 +1,3 @@
-# Scary-Maze-Game
+# Escape the Maze
 
-This repo contains the executable for Scary Maze Game
+This repo contains the executable for Escape the Maze
